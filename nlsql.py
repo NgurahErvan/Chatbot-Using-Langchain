@@ -21,7 +21,7 @@ from langchain_community.chat_message_histories import ChatMessageHistory
 history = ChatMessageHistory()
 
 
-os.environ["GROQ_API_KEY"] = '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'
+os.environ["GROQ_API_KEY"] = 'your_key'
 
 db_user = "myuser"
 db_password = "mypassword"
