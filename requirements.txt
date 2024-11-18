@@ -1,0 +1,11 @@
+fastapi
+pydantic
+sqlalchemy
+langchain
+langchain-community
+langchain-groq
+langchain-core
+langchain-chroma
+asyncio
+uvicorn
+psycopg2
